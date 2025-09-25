@@ -34,10 +34,10 @@ npm run dev
 
 #### Inicie a aplicação: Primeiro, certifique-se de que o servidor de desenvolvimento esteja rodando em um terminal 'npm run dev'.
 
-## Instalação e Configuração do Cypress.
+#### Instalação e Configuração do Cypress.
 npm install -D cypress
 
-## Os testes usando Cypress estão na pasta cypress/e2e, são dois testes.
+#### Os testes usando Cypress estão na pasta cypress/e2e, são dois testes.
 npx cypress open
 
-## Escolha um dos testes 'company-list.cy.ts' ou 'company-details.cy.ts.
+#### Escolha um dos testes 'company-list.cy.ts' ou 'company-details.cy.ts.
