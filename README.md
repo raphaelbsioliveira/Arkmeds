@@ -1,6 +1,6 @@
-# Esta é uma mini SPA para gerenciamento de empresas, construída com Next.js, TypeScript e Material-UI, focada em uma experiência de usuário limpa e responsiva.
+### Esta é uma mini SPA para gerenciamento de empresas, construída com Next.js, TypeScript e Material-UI, focada em uma experiência de usuário limpa e responsiva.
 
-# Listagem Dinâmica: A página principal exibe as empresas em cards e conta com uma busca em tempo real que filtra os resultados por Nome Fantasia, Razão Social ou CNPJ.
+#### Listagem Dinâmica: A página principal exibe as empresas em cards e conta com uma busca em tempo real que filtra os resultados por Nome Fantasia, Razão Social ou CNPJ.
 
 ## Cadastro Inteligente: Um formulário completo permite o cadastro de novas empresas, com validação de dados em tempo real (Joi), máscara de input para o CNPJ e feedbacks de sucesso/erro através de notificações.
 
